@@ -8,7 +8,7 @@ The API serves up (2) routes:
 
 /private - returns a JSON object that contains a hardcarded fact about dogs (who doesn't love dogs :))
 
-/public - performs a fetch to an external API that serves up a random fact about dogs and returns a JSON object with the fact inside. Each time you hit this endpoint the fact changes.
+/public - performs a fetch to an external API that serves up a random fact about a cat and returns a JSON object with the fact inside.
 
 If you are reading this you should have the high-level outcome and detailed steps needed to complete this challenge.
 
